@@ -1,0 +1,31 @@
+{
+  "name": "yoyodev",
+  "owner": {
+    "name": "Yoel Edery",
+    "email": "yoel.edery08@gmail.com"
+  },
+  "metadata": {
+    "description": "YoyoDev's Claude Code plugins — RAG, productivity tools, and more.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-rag",
+      "source": {
+        "source": "github",
+        "repo": "ThisisYoYoDev/claude-rag"
+      },
+      "description": "RAG plugin for Claude Code — capture, index, and search across all conversations, tools, and sub-agents. Never lose context.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Yoel Edery"
+      },
+      "homepage": "https://clauderag.io",
+      "repository": "https://github.com/ThisisYoYoDev/claude-rag",
+      "license": "MIT",
+      "keywords": ["rag", "search", "memory", "context", "embeddings", "vector", "conversations"],
+      "category": "productivity",
+      "tags": ["rag", "search", "memory", "vector-database", "claude-code"]
+    }
+  ]
+}
