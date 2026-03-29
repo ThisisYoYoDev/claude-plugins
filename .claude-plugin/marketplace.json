@@ -16,7 +16,7 @@
         "repo": "ThisisYoYoDev/claude-rag"
       },
       "description": "RAG plugin for Claude Code — capture, index, and search across all conversations, tools, and sub-agents. Never lose context.",
-      "version": "0.2.3",
+      "version": "0.3.0",
       "author": {
         "name": "Yoel Edery"
       },
